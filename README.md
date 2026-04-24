@@ -49,4 +49,4 @@ To analyze marketing campaign performance and identify:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://raw.githubusercontent.com/AnubhavSingh-17/marketing-roi-analysis/main/Marketing-ROI-Analysis/images/dashboard_preview.png)
